@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @lukasheyne
-- 👀 I’m interested in creating beautiful websites.
-- 🌱 I’m currently learning qwik.js and react.js
-- 📫 How to reach me: write an E-Mail to info@lukasheyne.de
 - ⚡ Fun fact: The dot over the letter 'i' is called a tittle.
 
 <!---
